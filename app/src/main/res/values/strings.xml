@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">NourClinic</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Nour Clinic</string>
+    <string name="nav_header_subtitle">nour.clinic@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_appointments">My Appointments</string>
+    <string name="menu_location">Clinic Location</string>
+    <string name="menu_logout">Logout</string>
+    <string name="menu_blank">Print</string>
+    <string name="menu_schedule">Schedule</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
